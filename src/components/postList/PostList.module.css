@@ -1,0 +1,15 @@
+.postList{
+    width: 660px;
+    background-color: currentColor;
+}
+button{
+    color: thistle;
+    width: 133px;
+    margin-left: 237px;
+}
+.posts{
+    color: violet;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
